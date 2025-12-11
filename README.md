@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ProjetoGestaoFinanceiraFrontEnd
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.3.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# ProjetoGestaoFinanceira-FrontEnd
+Neste projeto será realizado um sistema que tem como objetivo a gestão financeira pessoal, tendo como base o usuário, o salário total, saldo atual e os gastos cometidos pelo mesmo ao decorrer de dias, semanas e até mesmo anos! Para esta stack no Front End será utilizado HTML, CSS e JS + Angular, além do banco de dados relacional MySQL.
+>>>>>>> 72c155c00ad47414bf24252f4fa06a810f9f0e4d
