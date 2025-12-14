@@ -23,5 +23,3 @@ A documentação detalhada sobre a navegação e a experiência do usuário est�
 Este fluxograma ilustra a jornada completa do usuário para o acesso inicial (Login ou Criação de Conta), desde a decisão de ter cadastro até a validação das credenciais.
 
 ![Diagrama de Fluxo de Login e Cadastro](docs/fluxogramas/MedioNivel/Fluxograma-Login_Cadastro(NivelMedio).svg)
-
-> **Visualização em Alta Resolução:** [Abrir SVG original](./docs/fluxogramas/MedioNivel/Fluxograma-Login_Cadastro(NivelMedio).svg)
