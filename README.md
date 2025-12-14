@@ -22,9 +22,9 @@ A documentação detalhada sobre a navegação e a experiência do usuário est�
 
 Este fluxograma ilustra a jornada completa do usuário para o acesso inicial (Login ou Criação de Conta), desde a decisão de ter cadastro até a validação das credenciais.
 
-![Diagrama de Fluxo de Login e Cadastro](docs/fluxogramas/MedioNivel/Fluxograma-Login_Cadastro(NivelMedio).svg)
+![Fluxograma do Fluxo de Login e Cadastro](docs/fluxogramas/MedioNivel/Fluxograma-Login_Cadastro(NivelMedio).svg)
 
 ➡️ Fluxo Principal do Sistema (Nível Médio)
 Este fluxograma o caminho que o usuário consegur acessar após o acesso inicial (Login/Cadastro). O diagrama detalha a estrutura de navegação a partir do Dashboard Principal, que serve como o hub central do sistema.
 
-![Diagrama de Fluxo Principal do Sistema](docs/fluxogramas/MedioNivel/Fluxograma-Principal(NivelMedio).svg)
+![Fluxograma do Dashboard Principal do Sistema](docs/fluxogramas/MedioNivel/Fluxograma-DashboardPrincipal(NivelMedio).svg)
