@@ -18,7 +18,7 @@ O Front-End desta aplicação é construído utilizando:
 
 A documentação detalhada sobre a navegação e a experiência do usuário está organizada na pasta `docs/fluxogramas`, categorizada por nível de detalhe.
 
-### ➡️ Fluxo de Login e Cadastro (Nível Médio)
+### ➡️ Fluxo de Login e Cadastro
 
 Este fluxograma ilustra a jornada completa do usuário para o acesso inicial (Login ou Criação de Conta), desde a decisão de ter cadastro até a validação das credenciais.
 
@@ -26,7 +26,7 @@ Este fluxograma ilustra a jornada completa do usuário para o acesso inicial (Lo
 
 <br>
 
-### ➡️ Fluxo Principal do Sistema (Nível Médio)
+### ➡️ Fluxo Principal do Sistema
 
 Este fluxograma o caminho que o usuário consegur acessar após o acesso inicial (Login/Cadastro). O diagrama detalha a estrutura de navegação a partir do Dashboard Principal, que serve como o hub central do sistema.
 
@@ -34,7 +34,7 @@ Este fluxograma o caminho que o usuário consegur acessar após o acesso inicial
 
 <br>
 
-### ➡️ Fluxo de Detalhe: Configurações do Usuário (Nível Médio)
+### ➡️ Fluxo de Detalhe: Configurações do Usuário
 Este fluxograma ilustra em detalhes a jornada do usuário a partir da opção "Configurações" no Dashboard Principal. O foco deste módulo é o gerenciamento de dados cadastrais e a segurança da conta.
 
 ![Fluxograma do Dashboard das Configurações do Usuário](docs/fluxogramas/MedioNivel/Fluxograma-DashboardDasConfiguracoesDoUsuario(NivelMedio).svg)
