@@ -38,3 +38,12 @@ Este fluxograma o caminho que o usuário consegur acessar após o acesso inicial
 Este fluxograma ilustra em detalhes a jornada do usuário a partir da opção "Configurações" no Dashboard Principal. O foco deste módulo é o gerenciamento de dados cadastrais e a segurança da conta.
 
 ![Fluxograma do Dashboard das Configurações do Usuário](docs/fluxogramas/MedioNivel/Fluxograma-DashboardDasConfiguracoesDoUsuario(NivelMedio).svg)
+
+<br>
+
+### ➡️ Fluxo de Detalhe: Adicionar Despesa (Nível Médio)
+Este fluxograma ilustra a sequência de eventos para a inclusão de novas despesas, um processo central para a gestão financeira do sistema. O diagrama detalha o processo de validação e as ações dos calculos do back-end necessárias para garantir a integridade do saldo do usuário.
+
+![Fluxograma do Modal de Adicionar Nova Despesa](docs/fluxogramas/MedioNivel/Fluxograma-ModalAdicionarNovaDespesa(MedioNivel).svg)
+
+<br>
