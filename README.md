@@ -31,3 +31,10 @@ Este fluxograma ilustra a jornada completa do usuário para o acesso inicial (Lo
 Este fluxograma o caminho que o usuário consegur acessar após o acesso inicial (Login/Cadastro). O diagrama detalha a estrutura de navegação a partir do Dashboard Principal, que serve como o hub central do sistema.
 
 ![Fluxograma do Dashboard Principal do Sistema](docs/fluxogramas/MedioNivel/Fluxograma-DashboardPrincipal(NivelMedio).svg)
+
+<br>
+
+### ➡️ Fluxo de Detalhe: Configurações do Usuário (Nível Médio)
+Este fluxograma ilustra em detalhes a jornada do usuário a partir da opção "Configurações" no Dashboard Principal. O foco deste módulo é o gerenciamento de dados cadastrais e a segurança da conta.
+
+![Fluxograma do Dashboard das Configurações do Usuário](docs/fluxogramas/MedioNivel/Fluxograma-DashboardDasConfiguracoesDoUsuario(NivelMedio).svg)
