@@ -1,0 +1,100 @@
+.login-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; 
+  background-color: #f4f7f9;
+  font-family: Arial, sans-serif;
+}
+
+.login-container {
+  background: white;
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+
+h1 {
+  color: #3f51b5;
+  margin-bottom: 5px;
+  font-size: 1.8em;
+}
+
+h2 {
+  color: #555;
+  margin-top: 0;
+  margin-bottom: 30px;
+  font-size: 1.2em;
+  font-weight: normal;
+}
+
+.form-group {
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+  color: #333;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+button[type="submit"] {
+  width: 100%;
+  padding: 12px;
+  background-color: #3f51b5;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 1em;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button[type="submit"]:hover:not([disabled]) {
+  background-color: #303f9f;
+}
+
+button[disabled] {
+  background-color: #aeb4d8;
+  cursor: not-allowed;
+}
+
+.error-message {
+  color: #d32f2f;
+  background-color: #ffcdd2;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
+footer {
+  margin-top: 25px;
+  font-size: 0.9em;
+  color: #666;
+}
+
+footer a {
+  color: #3f51b5;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
