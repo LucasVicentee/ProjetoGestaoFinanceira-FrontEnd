@@ -47,3 +47,10 @@ Este fluxograma ilustra a sequência de eventos para a inclusão de novas despes
 ![Fluxograma do Modal de Adicionar Nova Despesa](docs/fluxogramas/MedioNivel/Fluxograma-ModalAdicionarNovaDespesa(MedioNivel).svg)
 
 <br>
+
+### ➡️ Fluxo de Detalhe: Visualizar Histórico de Despesas (Nível Médio)
+Este fluxograma ilustra a navegação e as interações avançadas dentro da tela de Histórico de Despesas, onde o usuário gerencia transações passadas. O diagrama detalha os sub-processos de manipulação de dados, incluindo alteração, exclusão individual e exclusão em massa.
+
+![Fluxograma do Dashboard de Todo o Histórico de Despesas](docs/fluxogramas/MedioNivel/Fluxograma-DashboardHistoricoDeTodasDespesas.svg)
+
+<br>
