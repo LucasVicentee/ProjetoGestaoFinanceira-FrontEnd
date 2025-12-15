@@ -8,7 +8,7 @@ Neste projeto será realizado um sistema que tem como objetivo a **gestão finan
 
 O Front-End desta aplicação é construído utilizando:
 
-* **Linguagens Base:** HTML, CSS e JavaScript (JS).
+* **Linguagens Base:** HTML, CSS e TypeScript (TS).
 * **Framework:** Angular.
 * **Banco de Dados (Back-End):** MySQL (relacional).
 
